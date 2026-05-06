@@ -31,31 +31,15 @@ I'm a Computer Science & Engineering student with a strong interest in cyber sec
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AvijitBiswasAvi&show_icons=true&theme=default&hide_border=true&hide=prs&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvijitBiswasAvi&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
-
----
-
-### 🧩 LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-AviijtBiswasAvi-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AviijtBiswasAvi/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AviijtBiswasAvi?theme=light&font=Nunito&ext=none&border=0&radius=6)
-
----
-
 ### 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avijit%20Biswas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitbiswasavi)
-[![GitHub](https://img.shields.io/badge/GitHub-AvijitBiswasAvi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AvijitBiswasAvi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AviijtBiswasAvi-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AviijtBiswasAvi/)
 
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
 
 </div>
+
 
